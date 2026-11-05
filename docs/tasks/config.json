@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "repository": "qwen38-full-finetuning",
+  "prefix": "QFT",
+  "reuse_floor": 1,
+  "next_id": 1,
+  "max_active_record_words": 700
+}

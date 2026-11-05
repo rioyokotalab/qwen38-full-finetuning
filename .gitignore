@@ -1,0 +1,12 @@
+.venv/
+config/cluster.env
+logs/
+outputs/
+checkpoints/
+*.out
+*.err
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*.jsonl
+!data/smoke.jsonl
